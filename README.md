@@ -40,7 +40,7 @@ O diagrama apresenta a arquitetura geral proposta para o projeto.
 
 A imagem apresenta o protótipo desenvolvido para o ambiente da matriz.
 
-![Diagrama do protótipo - Matriz](./images/Diagrama%20do%20prot%C3%B3tipo%20-%20Matriz.png)
+![Arquitetura NeoxGate](./images/Arquitetura-Neoxgate.png)
 
 ## Tecnologias e conceitos
 

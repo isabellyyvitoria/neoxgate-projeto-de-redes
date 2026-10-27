@@ -79,14 +79,6 @@ O projeto está em fase de construção, documentação e validação da soluç�
 
 As atividades seguem o planejamento da equipe e os requisitos definidos em parceria com a CTI.
 
-
-## Documentação
-
-Para mais informações sobre o desenvolvimento e a estrutura do projeto, consulte a documentação da equipe:
-
-- [Documentação do projeto NeoxGate](https://github.com/JullySzztiass/NeoxGate-CTI-REDES-DE-DADOS-/blob/main/Documenta%C3%A7%C3%A3o.md)
-
-
 ## Equipe
 
 Projeto desenvolvido em equipe por alunos do SENAI, em parceria com a CTI, no contexto da Tutoria 2026.

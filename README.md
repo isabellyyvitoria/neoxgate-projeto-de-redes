@@ -34,13 +34,13 @@ A arquitetura proposta contempla os seguintes ambientes:
 
 O diagrama apresenta a arquitetura geral proposta para o projeto.
 
-![Diagrama da arquitetura do projeto](./images/diagrama.jpg)
+![Arquitetura NeoxGate](./images/Arquitetura-Neoxgate.png)
 
 ### Protótipo da matriz
 
 A imagem apresenta o protótipo desenvolvido para o ambiente da matriz.
 
-![Protótipo da matriz](./images/Captura%20de%20tela%202026-10-07%20160145.png)
+![Diagrama do protótipo - Matriz](./images/Diagrama%20do%20prot%C3%B3tipo%20-%20Matriz.png)
 
 ## Tecnologias e conceitos
 
